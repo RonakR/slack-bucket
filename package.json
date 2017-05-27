@@ -1,0 +1,19 @@
+{
+  "name": "slack-bucket",
+  "version": "0.1.0",
+  "description": "Slack version of XKCD's IRC bot, Bucket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonakR/slack-bucket.git"
+  },
+  "author": "Ronak Raithatha <ronaksraithatha@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RonakR/slack-bucket/issues"
+  },
+  "homepage": "https://github.com/RonakR/slack-bucket#readme"
+}
